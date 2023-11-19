@@ -24,4 +24,9 @@ Descubriremos técnicas de subconjunto de datos que nos permitirán extraer la i
 
 Exploraremos conceptos básicos de visualización de datos utilizando la biblioteca Matplotlib, complementando nuestras habilidades en el análisis de datos.
 
+## Presentación del Taller
+
+Accede a la presentación que se utilizará durante el taller para obtener una visión general de los temas cubiertos:
+- [Diapositivas del Taller](https://www.canva.com/design/DAFu0NO7e2Y/ndE8BRb3buHl4VzFcmqfig/view?utm_content=DAFu0NO7e2Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ¡Esperamos que este taller sea útil y enriquecedor! ;)
